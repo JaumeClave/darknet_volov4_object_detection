@@ -1,1 +1,1 @@
-# darknet_volov4_object_detection
+This repo contains a Google Colab notebook that was used to train and test a deep learning Darknet YOLOv4 Object Detector. The goal was to learn how to use a object detector and understand its capabilities 
